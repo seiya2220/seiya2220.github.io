@@ -1,0 +1,52 @@
+.header{
+  background-color:#006fa8;
+  height:150px;
+  padding:20px
+}
+
+.header-logo h1{
+  color:white;
+  float:left;
+  padding:20px 15px;
+}
+
+
+.header-list li{
+ float:left;
+ list-style: none;
+ color: white;
+ font-size:24px;
+ padding:44px 20px;
+}
+
+.main{
+  padding:20px;
+  background-color:#0025ff08;
+  height: 280px;
+  text-align: center;
+}
+
+.main h2{
+  font-size:48px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.main-wrapper p{
+  font-size: 30px;
+}
+
+.btn{
+  background-color: black;
+}
+
+
+.signup{
+  color:white;
+  opacity: 0.6;
+}
+
+.btn:hover{
+  opacity:1.6;
+}
